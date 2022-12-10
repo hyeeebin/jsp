@@ -1,0 +1,135 @@
+@charset "UTF-8";
+
+body {
+	background-color: #f9f9f9;
+}
+
+.wrap {
+	width: 300px;
+	height: 350px;
+	border: 1px solid lightgray;
+	padding: 20px;
+	margin: 0 auto;
+	margin-top: 100px;
+	background-color: #fcfcfc;
+}
+
+.header {
+	margin-top: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.loginForm {
+	text-align: center;
+	border-radius: 30px;
+}
+
+.loginForm #enterId {
+	margin-top: 30px;
+	border-radius: 5px;
+	width: 240px;
+	height: 30px;
+	border-color: lightgrey;
+}
+
+.loginForm #enterPwd {
+	margin-top: 5px;
+	border-radius: 5px;
+	width: 240px;
+	height: 30px;
+	border-color: lightgrey;
+	width: 240px;
+	height: 30px;
+}
+
+.loginForm #submit {
+	margin-top: 20px;
+	width: 240px;
+	height: 30px;
+	border-radius: 5px;
+	background: #0095f6;
+	color: white;
+	border: 1px solid lightgray;
+	font-weight: bolder;
+}
+
+
+
+.findId {
+	float: left;
+}
+
+.findPwd {
+	float: right;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.wrapOr {
+	margin-top: 10px;
+}
+
+.leftHr {
+	float: left;
+	width: 35%;
+}
+
+.or {
+	float: left;
+	width: 17%;
+	margin: 2px 5%;
+	font-size: 13px;
+	color: #999999;
+	font-size: 14px;
+	font-weight: 700;
+	text-align: center;
+}
+
+.rightHr {
+	float: right;
+	width: 35%;
+}
+
+.doJoin {
+	background-color: #fcfcfc;
+	width: 310px;
+	height: 30px;
+	margin: 0 auto;
+	margin-top: 20px;
+	padding: 15px;
+	border: 1px solid lightgray;
+	border-radius: 3px;
+	text-align: center;
+}
+
+.doJoin p {
+	font-size: 14px;
+	font-weight: 300;
+	color: #333333;
+	margin-top: 5px;
+}
+
+.doJoin p a {
+	font-weight: 600;
+	color: #248ae3;
+}
+
+.searchInfo {
+	font-size: 15px;
+}
+
+.searchInfo #searchId {
+	margin-top: 10px;
+	width: 52%;
+	float: left;
+}
+
+.searchInfo #searchPwd {
+	margin-top: 10px;
+	float: right;
+	width: 32%;
+}
