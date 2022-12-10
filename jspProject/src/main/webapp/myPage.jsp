@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>회원 상세보기 페이지</title>
 <link href="css/style.css" rel="stylesheet" />
-</head>
+</head><!--하이  -->
 <body>
 	<jsp:include page="./main/header.jsp"></jsp:include>
 <div id="page1">
